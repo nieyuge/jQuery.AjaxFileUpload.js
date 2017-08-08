@@ -1,0 +1,20 @@
+{
+  "name": "jQuery.AjaxFileUpload.js",
+  "version": "1.0.0",
+  "description": "> $.ajaxFileUpload([options])",
+  "main": "jquery.ajaxfileupload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nieyuge/jQuery.AjaxFileUpload.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nieyuge/jQuery.AjaxFileUpload.js/issues"
+  },
+  "homepage": "https://github.com/nieyuge/jQuery.AjaxFileUpload.js#readme"
+}
